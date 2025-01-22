@@ -1,6 +1,8 @@
 > [!TIP]
 > Search for the "Blueprint Protocol" app on the app stores for all of this in your pocket!
 
+![Blueprint Protocol app](banner.png)
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <a href="https://apps.apple.com/us/app/blueprint-protocol/id6467042093">
     <img src="app-store-badge.svg" alt="App Store" height="50" style="padding:0;"/>
@@ -147,7 +149,75 @@ The following table details the supplement protocol. Always consult with healthc
 
 # <a name="recipes"></a>🥗 Recipes
 
+> [!NOTE]
+> Check out the free [Recipe Guide by Zero](https://protocol.bryanjohnson.com/Recipe-Guide-by-Zero)
+
+- Beet Poke
+- Blood Orange + Fennel Salad
+- Buddha Bowl
+- Chickpea Curry Over Greens
+- Collard Green Wraps + Red Peppers Dip
+- Nutty Pudding
+- Roasted Beets + Green Lentils + Wilted Chard
+- Roasted Bok Choy + Japanese Sweet Potato
+- Roasted Cabbage Steaks + Sweet Potato Mash
+- Roasted Veggie Lettuce Wraps
+- Super Veggie
+- Sweet Potato + Mushroom Toast
+
+> [!NOTE]
+> Recipes focus on nutrient-dense, plant-based ingredients to support optimal health and longevity.
+
 # <a name="exercise"></a>🫀 Exercise
+
+## Daily Routine
+| Exercise | Sets x Reps | Group |
+|----------|------------|--------|
+| Backwards Sled | 2 min | Legs |
+| Posture exercises | 1 set | All |
+| Tricep extensions | 1 x 25 | Arms |
+| Face pulls | 1 x 15 | Back |
+| Butterfly | 1 x 15 | Chest |
+| Band pull apart | 1 x 15 | Back |
+| Back extensions | 1 x 25 | Back |
+| Obliques | 1 x 25 | Core |
+| Leg raises | 1 x 50 | Core |
+
+## Mobility Work
+| Exercise | Sets | Group |
+|----------|-------|--------|
+| Kneeling shin stretch | 1 set | Legs |
+| Hip flexor stretch | 1 set | Legs |
+| Couch stretch | 1 set | Legs |
+
+## Leg Strength
+| Exercise | Sets x Reps | Group |
+|----------|------------|--------|
+| Seated calf raises | 1 x 25 | Legs |
+| Poliquin step ups | 3 x 10 | Legs |
+| Slant board squats | 3 x 15 | Legs |
+| ATG Split squats | 3 x 10 | Legs |
+| Nordics | 1 x 10 | Legs |
+| Reverse Nordics | 1 x 10 | Legs |
+| Tibialis raises | 1 x 25 | Legs |
+| IsoTib ankle rotations | 1 x 15 | Legs |
+
+## Back Strength
+| Exercise | Sets x Reps | Group |
+|----------|------------|--------|
+| Pull ups | 1 x 15 | Back |
+| Chin ups | 1 x 15 | Back |
+
+## Cardio & Recreation
+| Activity | Duration | Group |
+|----------|----------|--------|
+| HIIT | 10 min | All |
+| Hiking | 1 set | All |
+| Basketball | 1 set | All |
+| Tennis | 1 set | All |
+
+> [!NOTE]
+> This workout routine emphasizes mobility, strength, and functional movement. Adjust sets, reps, and exercises based on your fitness level and goals.
 
 # <a name="products"></a>⌚️ Products
 
