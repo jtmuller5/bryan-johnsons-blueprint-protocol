@@ -158,6 +158,7 @@ The following table details the supplement protocol. Always consult with healthc
 | [Blood Orange + Fennel Salad](https://www.nutritionvalue.org/public_recipe_220204.html) | 621 | 33 | 4 | 341 | 70 | 19 | 29 | 18 |
 | [Buddha Bowl](https://www.nutritionvalue.org/public_recipe_220215.html) | 465 | 34 | 3.5 | 226 | 32 | 9.7 | 2.2 | 16 |
 | [Chickpea Curry Over Greens](https://www.nutritionvalue.org/public_recipe_220261.html) | 630 | 22 | 3 | 257 | 93 | 23 | 29 | 21 |
+| [Collard Green Wraps + Red Pepper Dip](https://www.nutritionvalue.org/public_recipe_220307.html)| 614 | 57 | 8.8 | 41 | 28 | 16 | 8.3 | 11 |
 | [Nutty Pudding](https://protocol.bryanjohnson.com/#step-1-meal-prep) | 432.6 | 32.2 | 4.6 | 81.2 | 34.1 | 18.9 | 10.8 | 8.5 |
 | [Roasted Beets + Green Lentils + Wilted Chard](https://www.nutritionvalue.org/public_recipe_220246.html) | 468 | 28 | 3.2 | 666 | 51 | 16 | 25 | 16 |
 | [Roasted Bok Choy + Japanese Sweet Potato](https://www.nutritionvalue.org/public_recipe_220305.html) | 447 | 30 | 3.8 | 344 | 41 | 11 | 12 | 12 |
