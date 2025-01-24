@@ -152,21 +152,22 @@ The following table details the supplement protocol. Always consult with healthc
 > [!NOTE]
 > Check out the free [Recipe Guide by Zero](https://protocol.bryanjohnson.com/Recipe-Guide-by-Zero)
 
-- Beet Poke
-- Blood Orange + Fennel Salad
-- Buddha Bowl
-- Chickpea Curry Over Greens
-- Collard Green Wraps + Red Peppers Dip
-- Nutty Pudding
-- Roasted Beets + Green Lentils + Wilted Chard
-- Roasted Bok Choy + Japanese Sweet Potato
-- Roasted Cabbage Steaks + Sweet Potato Mash
-- Roasted Veggie Lettuce Wraps
-- Super Veggie
-- Sweet Potato + Mushroom Toast
+| Recipe | Calories | Total Fat (g) | Saturated Fat (g) | Sodium (mg) | Total Carbs (g) | Dietary Fiber (g) | Sugars (g) | Protein (g) |
+|--------|----------|--------------|-------------------|-------------|----------------|------------------|------------|------------|
+| [Beet Poke](https://www.nutritionvalue.org/public_recipe_220262.html) | 504 | 29 | 4.2 | 354 | 60 | 17 | 36 | 9.9 |
+| [Blood Orange + Fennel Salad](https://www.nutritionvalue.org/public_recipe_220204.html) | 621 | 33 | 4 | 341 | 70 | 19 | 29 | 18 |
+| [Buddha Bowl](https://www.nutritionvalue.org/public_recipe_220215.html) | 465 | 34 | 3.5 | 226 | 32 | 9.7 | 2.2 | 16 |
+| [Chickpea Curry Over Greens](https://www.nutritionvalue.org/public_recipe_220261.html) | 630 | 22 | 3 | 257 | 93 | 23 | 29 | 21 |
+| [Nutty Pudding](https://protocol.bryanjohnson.com/#step-1-meal-prep) | 432.6 | 32.2 | 4.6 | 81.2 | 34.1 | 18.9 | 10.8 | 8.5 |
+| [Roasted Beets + Green Lentils + Wilted Chard](https://www.nutritionvalue.org/public_recipe_220246.html) | 468 | 28 | 3.2 | 666 | 51 | 16 | 25 | 16 |
+| [Roasted Bok Choy + Japanese Sweet Potato](https://www.nutritionvalue.org/public_recipe_220305.html) | 447 | 30 | 3.8 | 344 | 41 | 11 | 12 | 12 |
+| [Roasted Cabbage Steaks + Sweet Potato Mash](https://www.nutritionvalue.org/public_recipe_220247.html) | 578 | 41 | 5.9 | 117 | 47 | 13 | 14 | 17 |
+| [Roasted Veggie Lettuce Wraps](https://www.nutritionvalue.org/public_recipe_220241.html) | 500 | 15 | 2.6 | 271 | 89 | 25 | 39 | 14 |
+| [Super Veggie](https://protocol.bryanjohnson.com/#step-1-meal-prep) | 378 | 7 | 0.8 | 170.8 | 64 | 27.3 | 7.8 | 25.5 |
+| [Sweet Potato + Mushroom Toast](https://www.nutritionvalue.org/public_recipe_220259.html) | 450 | 29 | 4.1 | 365 | 48 | 12 | 11 | 7.6 |
 
 > [!NOTE]
-> Recipes focus on nutrient-dense, plant-based ingredients to support optimal health and longevity.
+> Nutrition values were calculated using [nutritionvalue.org's Nutrition Calculator](https://www.nutritionvalue.org/)
 
 # <a name="exercise"></a>🫀 Exercise
 
